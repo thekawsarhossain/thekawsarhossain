@@ -8,7 +8,7 @@
 
 Hey there! This is Kawsar Hossain . I'm a Front end Web Developer.
 
-Skills: BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND /JS / REACT / REACT BOOTSTRAP / 
  
 
 - 🌱 I’m currently learning **Backend Development**
