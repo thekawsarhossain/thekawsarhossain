@@ -1,4 +1,4 @@
-![Hello There This Kawsar Hossain](https://github.com/thekawsarhossain/thekawsarhossain/blob/main/logo.png)
+![Hello There This Kawsar Hossain]
 
 
 <h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
