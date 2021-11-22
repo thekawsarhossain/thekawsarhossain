@@ -1,6 +1,3 @@
-![Hello There This Kawsar Hossain]
-
-
 <h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
 <h3 align="center">An enthusiast programmer from Bangladesh</h3>
 
