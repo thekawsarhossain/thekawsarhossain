@@ -33,7 +33,7 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTR
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thekawsarhossain)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain)](https://github.com/thekawsarhossain)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thekawsarhossain&show_icons=true)  
 
