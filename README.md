@@ -1,7 +1,5 @@
-<p align="center">
-<h1>Hi 👋, I'm Kawsar Hossain</h1>
-<h3>An enthusiast programmer from Bangladesh</h3>
-</p>
+<h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
+<h3 align="center">An enthusiast programmer from Bangladesh</h3>
 
 <p align="center">
   <a href="https://kawsar-hossain.netlify.app" align="center" target="blank"><img
