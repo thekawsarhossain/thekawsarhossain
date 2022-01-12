@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
-<h3 align="center">An enthusiast programmer from Bangladesh</h3>
+<h2> Hello There, This is Kawsar Hossain, <p> An enthusiast programmer from Bangladesh.</p> </h2>
 
-<p align="center">
+
+<p>
   <a href="https://kawsar-hossain.netlify.app" align="center" target="blank"><img
       src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
       alt="thekawsarhossain" /></a>
@@ -44,16 +44,27 @@
     href="#"><img alt="jQery" src="https://img.shields.io/badge/jQery%20-%23430098.svg?logo=jQery&logoColor=white"></code>
 </p>
 
-## 🛠️ Comfortabel With
+## 🛠️ Comfortable With
+<p>
+  <code
+    href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></code>
+  <code
+    href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></code>
+  <code
+    href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></code>
+  <code
+    href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></code>
+ <code
+    href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%234D97FF.svg?logo=Bootstrap&logoColor=white"></code>
+  
+</p>
+
+## 🛠️ Familiar  With
 <p>
   <code
     href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></code>
   <code
-    href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></code>
-  <code
     href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></code>
-  <code
-    href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20- %23007ACC.svg?logo=typescript&logoColor=white"></code>
   <code
     href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></code>
 </p>
