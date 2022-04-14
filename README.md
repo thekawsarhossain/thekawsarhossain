@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kawsar Hossain</h1>
-<h3 align="center">An enthusiast programmer from Bangladesh</h3>
+<h1 align="center">Hi There👋, this is Kawsar Hossain</h1>
+<h3 align="center">I'm a enthusiast programmer from Bangladesh !</h3>
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain)
 
