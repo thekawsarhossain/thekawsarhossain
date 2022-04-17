@@ -3,8 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain)
 
-Hey there! This is Kawsar Hossain . I'm a Front end Web Developer.
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thekawsarhossain)
