@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thekawsarhossain)
-
 - 📫 How to reach me **thekawsarhossain@gmail.com**
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=thekawsarhossain&label=Profile%20views&color=0e75b6&style=flat"
