@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **thekawsarhossain@gmail.com**
+- 📫 How to reach me: **thekawsarhossain@gmail.com**
 
-- 🔗 My portfolio **https://kawsar-hossain.netlify.app/**
+- 🔗 My portfolio: **https://kawsar-hossain.netlify.app/**
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=thekawsarhossain&label=Profile%20views&color=0e75b6&style=flat"
