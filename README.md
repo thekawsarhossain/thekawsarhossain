@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, this is Kawsar Hossain</h1>
 <h3 align="center">I'm a enthusiast programmer from Bangladesh !</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 📫 How to reach me: **thekawsarhossain@gmail.com**
 
 - 🔗 My portfolio: **https://kawsar-hossain.netlify.app/**
