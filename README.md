@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **thekawsarhossain@gmail.com**
 
-- 🔗 My portfolio: **https://kawsar-hossain.netlify.app/**
+- 🔗 My portfolio: **https://kawsar-hossain.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
