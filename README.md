@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, this is Kawsar Hossain</h1>
-<h3 align="center">I'm a enthusiast programmer from Bangladesh !</h3>
+<h3 align="center">I'm an enthusiast programmer from Bangladesh!</h3>
 
 - 📫 How to reach me: **thekawsarhossain@gmail.com**
 
