@@ -33,7 +33,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thekawsarhossain&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thekawsarhossain)
-
-![Profile views](https://gpvc.arturio.dev/thekawsarhossain)
