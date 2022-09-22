@@ -1,5 +1,5 @@
-<h1 align="center">Hello there👋, this is Kawsar Hossain</h1>
-<h3 align="center">I'm an enthusiast programmer from Bangladesh!</h3>
+<h1 align="left">Hello there👋, this is Kawsar Hossain</h1>
+<h3 align="left">I'm an enthusiast programmer from Bangladesh!</h3>
 
 - 📫 How to reach me: **thekawsarhossain@gmail.com**
 - 🔗 My portfolio: **https://kawsar-hossain.netlify.app**
@@ -29,5 +29,4 @@
       alt="@thekawsarhossain" height="30" width="40" /></a>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thekawsarhossain&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thekawsarhossain&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain)
