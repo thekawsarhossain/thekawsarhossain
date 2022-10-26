@@ -28,5 +28,4 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="@thekawsarhossain" height="30" width="40" /></a>
 </p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thekawsarhossain&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekawsarhossain)
