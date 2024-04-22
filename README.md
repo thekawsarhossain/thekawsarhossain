@@ -2,7 +2,7 @@
 <h3 align="left">How to reach me!</h3>
 
 - 📫 Email: **thekawsarhossain@gmail.com**
-- 🔗 Portfolio: **https://kawsar-hossain.netlify.app**
+- 🔗 Portfolio: **[https://kawsar-hossain.vercel.app](https://kawsar-hossain.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
