@@ -1,7 +1,7 @@
 <h1 align="left">Hello there, 👋 </h1> 
 <h3 align="left">How to reach me! </h3>  
 
-- 📫 Email: **thekawsarhossain@gmail.com**
+- 📫 Email: **thekawsarhossain@gmail.com** 
 - 🔗 Portfolio: **[https://kawsar-hossain.vercel.app](https://kawsar-hossain.vercel.app)**
 
 <h3 align="left">Connect with me: </h3>
