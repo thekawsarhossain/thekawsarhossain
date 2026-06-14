@@ -42,7 +42,7 @@ contact   : thekawsarhossain@gmail.com
 
 ### `$ cat ./notable-projects`
 
-#### 🔴 [Rectify.so](https://rectify.so) - AI-Powered Dev Platform · `1K+ users`
+#### [Rectify.so](https://rectify.so) - AI-Powered Dev Platform · `1K+ users`
 
 > Full-stack SaaS I designed, built, and scaled solo.
 
