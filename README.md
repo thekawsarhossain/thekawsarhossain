@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kawsar 👋
+# Hey, I'm Kawsar 👋 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5362D&center=true&width=500&lines=Full-Stack+Engineer+%7C+4%2B+Years;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
